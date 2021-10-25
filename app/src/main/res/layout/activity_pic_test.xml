@@ -29,7 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="70dp"
             android:gravity="center"
-            android:text="TextView"
+            android:textColor="@color/black"
             android:textSize="50dp"
             android:textStyle="bold" />
 
@@ -37,7 +37,7 @@
             android:id="@+id/pokeindroduce"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="TextView"
+            android:textColor="@color/black"
             android:scrollbars="vertical"
             android:textSize="20dp" />
     </LinearLayout>
